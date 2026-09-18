@@ -38,6 +38,19 @@ free-apis call quote
 
 ---
 
+## ⚡ Measured Response Benchmarks
+
+| Endpoint Category | Provider | Typical Latency | Auth Requirement |
+| :--- | :--- | :--- | :--- |
+| **Weather** | Open-Meteo & wttr.in | **~180ms** | None (Zero Auth) |
+| **Crypto Prices** | CoinCap / CoinGecko | **~190ms** | None (Zero Auth) |
+| **Public IP & Geo** | ipify / ip-api | **~120ms** | None (Zero Auth) |
+| **Forex Rates** | ExchangeRate API | **~210ms** | None (Zero Auth) |
+| **Programming Jokes** | Official Joke API | **~140ms** | None (Zero Auth) |
+| **Inspirational Quotes**| ZenQuotes / Quoteable | **~160ms** | None (Zero Auth) |
+
+---
+
 ## 📚 Categories Indexed (52)
 
 - **Animals** (Cats, Dogs, Birds, Wildlife)
